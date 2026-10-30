@@ -1,0 +1,66 @@
+Rule 107 Client Application License
+
+Copyright (c) 2026 Yukabyte AB, Sweden. All rights reserved.
+
+This license applies to the compiled Rule 107 client application (the
+"Application") distributed through the rule107-app repository and its releases.
+The Application is the proprietary property of Yukabyte AB (organisation number
+559577-4729), a company incorporated under the laws of Sweden ("Yukabyte"). The
+Application is licensed, not sold. This is not an open-source license.
+
+1. GRANT
+   Subject to this license, Yukabyte grants you a personal, non-exclusive,
+   non-transferable, revocable license to download, install and run the
+   Application on devices you own or control, solely to send your own game
+   telemetry to your Rule 107 account at rule107.com.
+
+2. RESTRICTIONS
+   You may not, and may not allow others to: (a) copy or redistribute the
+   Application, except that you may keep backup copies for your own use;
+   (b) sell, rent, lease, sublicense or offer the Application as a service;
+   (c) modify the Application or create derivative works; (d) reverse engineer,
+   decompile or disassemble the Application, except to the extent mandatory law
+   allows despite this restriction; (e) remove or alter any notice or mark;
+   (f) use the Application to interfere with, overload or gain unauthorised
+   access to the Rule 107 service or any other system.
+
+3. SERVICE USE
+   Use of the hosted Rule 107 service at rule107.com is governed solely by its
+   Terms of Service and Privacy Policy. The Application collects and uploads game
+   telemetry as described in the Privacy Policy.
+
+4. UPDATES
+   Yukabyte may release updates and may stop supporting older versions. Updates
+   are covered by this license unless they come with their own terms.
+
+5. TRADEMARKS
+   "Rule 107", "Yukabyte" and associated logos are trademarks or business names
+   of Yukabyte. No right to use them is granted. Rule 107 is not affiliated with,
+   endorsed by or sponsored by Formula 1, the FIA or Codemasters/EA; all related
+   names and marks belong to their owners.
+
+6. THIRD-PARTY COMPONENTS
+   The Application includes third-party components, each licensed under its own
+   terms, which remain in force and are not changed by this license.
+
+7. TERMINATION
+   This license ends automatically if you breach it. On termination you must stop
+   using the Application and delete all copies. Sections 2 and 5 to 9 survive
+   termination.
+
+8. NO WARRANTY
+   TO THE EXTENT PERMITTED BY LAW, THE APPLICATION IS PROVIDED "AS IS", WITHOUT
+   WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS
+   FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+9. LIMITATION OF LIABILITY AND GOVERNING LAW
+   TO THE EXTENT PERMITTED BY LAW, YUKABYTE SHALL NOT BE LIABLE FOR ANY INDIRECT,
+   INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES, OR LOSS OF DATA OR PROFITS,
+   ARISING FROM THE APPLICATION. NOTHING HERE EXCLUDES LIABILITY THAT CANNOT BE
+   EXCLUDED UNDER MANDATORY LAW. This license is governed by the laws of Sweden.
+   Disputes shall be settled by the courts of Sweden, with Stockholm District
+   Court as the court of first instance, unless mandatory law provides otherwise.
+   Consumers keep any mandatory rights they have under the law of their country
+   of residence.
+
+Contact: support@yukabyte.com, Yukabyte AB, Mandolingatan 40, 421 54 Västra Frölunda, Sweden.
